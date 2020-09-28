@@ -89,7 +89,7 @@ Note:- If the voice not detected within 3 seconds (3000 ms) , animation and voic
 
 Any type of issues are welcome. Please add screenshots of the bug and code snippet. Also the quickest way to solve the bug is to reproduce it with one of the examples. We would also welcome Pull Requests.
 
-git clone https://github.com/metasys96/react-native-voice-control/example
+git clone https://github.com/metasys96/react-native-voice-control/tree/master/examples
 
 `npm install`\
 \
