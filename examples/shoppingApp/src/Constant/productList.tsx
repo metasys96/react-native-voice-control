@@ -1,0 +1,55 @@
+let ProductList = [
+  {
+    id: "0",
+    category: "Books",
+    title: "The Power Of Now",
+    price: 6.7,
+    author: "Eckhart Tolle",
+    image: require("../Images/thePowerOfNow.jpg"),
+    ratting: 4.7,
+    inCart: false,
+  },
+
+  {
+    id: "1",
+    category: "Books",
+    title: "Silent Child",
+    price: 4.5,
+    author: "Sarah A Denzil",
+    image: require("../Images/silentChild.jpg"),
+    ratting: 4.4,
+    inCart: false,
+  },
+  {
+    id: "2",
+    category: "Books",
+    title: "Bad Blood",
+    price: 13.45,
+    author: "John Carreyrou",
+    image: require("../Images/badBlood.jpg"),
+    ratting: 4.8,
+    inCart: false,
+  },
+  {
+    id: "3",
+    category: "Books",
+    title: "The Night Circus",
+    price: 4.5,
+    author: "Erin Morgenstern",
+    image: require("../Images/theNightCircus.jpg"),
+    ratting: 4.1,
+    inCart: false,
+  },
+  {
+    id: "4",
+    category: "Books",
+    title: "Friend Request",
+    price: 4.5,
+    author: "Laura Marshall",
+    image: require("../Images/friendRequest.jpg"),
+    ratting: 4.3,
+    inCart: false,
+  },
+];
+
+export default ProductList;
