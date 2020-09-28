@@ -45,7 +45,7 @@ Add the following lines in Info.plist file.
 
 ## Screenshot
 
-<img  src="https://github.com/metasys96/react-native-voice-control/blob/master/voiceControlImg.png"  width="600"  height="650"/>
+<img  src="https://github.com/metasys96/react-native-voice-control/blob/master/screenshot/voiceControlImg.png"  width="600"  height="650"/>
 
 ## Getting started
 
@@ -63,7 +63,7 @@ return (
 	<VoiceControl
 		onVoiceRecgStart={this.voiceRecgStart}
 		onVoiceRecgEnd={this.voiceRecgEnd}
-       // add other props if required
+       		// add other props if required
      />
 )
 ```
