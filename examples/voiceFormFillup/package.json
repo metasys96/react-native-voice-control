@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@metasys96/react-native-voice-control": "file:../react-native-voice-control/metasys96-react-native-voice-control-0.0.1.tgz",
+    "@metasys96/react-native-voice-control": "^1.0.0",
     "@react-native-community/voice": "^1.1.7",
     "react": "16.13.1",
     "react-native": "0.63.2",
